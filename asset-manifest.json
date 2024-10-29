@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/candle-app/static/css/main.94684eac.css",
+    "main.js": "/candle-app/static/js/main.a39099b6.js",
+    "static/js/453.5d449a43.chunk.js": "/candle-app/static/js/453.5d449a43.chunk.js",
+    "index.html": "/candle-app/index.html",
+    "main.94684eac.css.map": "/candle-app/static/css/main.94684eac.css.map",
+    "main.a39099b6.js.map": "/candle-app/static/js/main.a39099b6.js.map",
+    "453.5d449a43.chunk.js.map": "/candle-app/static/js/453.5d449a43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94684eac.css",
+    "static/js/main.a39099b6.js"
+  ]
+}
