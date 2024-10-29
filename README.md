@@ -35,3 +35,5 @@ This will run the application in development mode at `http://localhost:3000`.
 - **React**
 - **TypeScript**
 - **react-tradingview-embed**
+- **Jest**
+- **React Testing Library**
