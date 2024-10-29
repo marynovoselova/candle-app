@@ -1,0 +1,25 @@
+.chart-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: #131722;
+}
+
+.chart-buttons {
+  margin: 8px;
+}
+.chart-button {
+  cursor: pointer;
+  background-color: transparent;
+  color: #d1d4dc;
+  border: 1px solid #d1d4dc;
+  border-radius: 8px;
+  margin-right: 6px;
+  padding: 10px 15px;
+  transition: background-color 0.3s;
+
+  &:hover {
+    background-color: #d1d4dc;
+    color: #131722;
+  }
+}
