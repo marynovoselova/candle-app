@@ -1,5 +1,7 @@
 # Candle Application
 
+You can see it <a href="https://marynovoselova.github.io/candle-app" alt="Todoshka">here 🌏</a>
+
 This application displays candlestick charts for cryptocurrencies (Bitcoin and Ethereum) using the `react-tradingview-embed` library.
 
 ## Installation
